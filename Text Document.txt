@@ -3,4 +3,5 @@
 22032025- Third commit
 22032025- Fourth commit
 22032025- Fifth commit
-dont know what is happening
+I'm editing this text document to do hands-on resolving
+merge conflicts in TortoiseGit and become a pro in Git.
