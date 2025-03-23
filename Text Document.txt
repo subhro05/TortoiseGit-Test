@@ -8,4 +8,8 @@ merge conflicts in TortoiseGit and become a pro in Git.
 
 Making changes in the dev branch.
 
+<<<<<<< HEAD
 Resolving conflicts in the dev branch
+=======
+Updated UAT
+>>>>>>> sit
