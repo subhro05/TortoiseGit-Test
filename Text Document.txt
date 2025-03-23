@@ -7,3 +7,5 @@ I'm editing this text document to do hands-on resolving
 merge conflicts in TortoiseGit and become a pro in Git.
 
 Making changes in the dev branch.
+
+Updated UAT
