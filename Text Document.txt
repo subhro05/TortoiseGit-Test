@@ -13,3 +13,6 @@ Resolving conflicts in the dev branch
 =======
 Updated UAT
 >>>>>>> sit
+
+
+Developer 1 made some changes 
